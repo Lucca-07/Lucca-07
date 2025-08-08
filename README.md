@@ -5,14 +5,14 @@
 Me chamo Lucca de Barros Rodrigues, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Artur de Queirós. Atualmente, estou cursando Ciências da Computação no Instituto Mauá de Tecnologia. Sou apaixonado por computação e desejo aprender cada dia mais sobre programação.
 
 <p align="left"> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Lucca-07?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Lucca-07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Lucca-07?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
