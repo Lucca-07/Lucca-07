@@ -1,6 +1,6 @@
 # 👨‍💻 Lucca de Barros Rodrigues
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor`**
 
 Me chamo Lucca de Barros Rodrigues, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Artur de Queirós. Atualmente, estou cursando Ciências da Computação no Instituto Mauá de Tecnologia. Sou apaixonado por computação e desejo aprender cada dia mais sobre programação.
 
