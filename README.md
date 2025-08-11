@@ -35,7 +35,7 @@ Me chamo Lucca de Barros Rodrigues, tenho 18 anos e sou natural de São Paulo. C
 />
 <img 
     align="left" 
-    alt="Python" 
+    alt="Java" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
