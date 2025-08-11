@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de São Paulo. Atualmente cursando Ciências da Computação no Instituto Mauá de Tecnologia, busco constantemente expandir meus conhecimentos em programação e desenvolvimento de software.
+Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo André. Atualmente cursando Ciências da Computação no Instituto Mauá de Tecnologia, busco constantemente expandir meus conhecimentos em programação e desenvolvimento de software.
 
 <p align="left"> 
     <a href="https://github.com/Lucca-07?tab=repositories&sort=stargazers">
