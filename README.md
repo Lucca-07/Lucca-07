@@ -1,8 +1,8 @@
 # 👨‍💻 Lucca de Barros Rodrigues
 
-**`Desenvolvedor`**
+**`Desenvolvedor de Software`**
 
-Me chamo Lucca de Barros Rodrigues, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Artur de Queirós. Atualmente, estou cursando Ciências da Computação no Instituto Mauá de Tecnologia. Sou apaixonado por computação e desejo aprender cada dia mais sobre programação.
+Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de São Paulo. Atualmente cursando Ciências da Computação no Instituto Mauá de Tecnologia, busco constantemente expandir meus conhecimentos em programação e desenvolvimento de software.
 
 <p align="left"> 
     <a href="https://github.com/Lucca-07?tab=repositories&sort=stargazers">
@@ -23,76 +23,86 @@ Me chamo Lucca de Barros Rodrigues, tenho 18 anos e sou natural de São Paulo. C
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+    <img 
+        alt="Python" 
+        title="Python"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        alt="Java" 
+        title="Java"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        alt="HTML" 
+        title="HTML5"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        alt="CSS" 
+        title="CSS3"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        alt="JS" 
+        title="JavaScript"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="Git" 
+        title="Git"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+</div>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 📈 Minhas Estatísticas no GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucca-07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+    <img 
+        alt="GitHub Stats" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=lucca-07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
+    />
+    <img 
+        alt="Linguagens Mais Usadas" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true" 
+    />
+    <img
+        alt="Streak Stats"
+        height="180"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lucca-07&theme=tokyonight&hide_border=true"
+    />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucca-07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+### 🌱 O Que Estou Aprendendo Atualmente
+
+- HTML 5
+- CSS 3
+- JavaScript
+  
+---
+
+### 📫 Como Me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-rodrigues-391a39364/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccamauarodrigues@gmail.com)
+
+---
+
+⭐️ De [Lucca-07](https://github.com/Lucca-07)
+
+Fique à vontade para explorar meus repositórios e contribuir com projetos! Estou sempre aberto a colaborações e novos desafios.
