@@ -57,10 +57,22 @@ OlÃ¡! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo AndrÃ
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
+        alt="Node" 
+        title="Node"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+    />
+    <img 
         alt="Git" 
         title="Git"
         height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        alt="MySQL" 
+        title="MySQL"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
     />
 </div>
 
