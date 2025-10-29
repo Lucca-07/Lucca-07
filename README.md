@@ -51,6 +51,12 @@ Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr�
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
+        alt="Bootstrap5" 
+        title="Bootstrap5"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    />
+    <img 
         alt="JS" 
         title="JavaScript"
         height="40" 
@@ -73,6 +79,12 @@ Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr�
         title="MySQL"
         height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+    />
+    <img 
+        alt="MongoDB" 
+        title="MongoDB"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
     />
 </div>
 
@@ -102,9 +114,7 @@ Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr�
 
 ### 🌱 O Que Estou Aprendendo Atualmente
 
-- HTML 5
-- CSS 3
-- JavaScript
+- React
   
 ---
 
@@ -116,5 +126,3 @@ Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr�
 ---
 
 ⭐️ De [Lucca-07](https://github.com/Lucca-07)
-
-Fique à vontade para explorar meus repositórios e contribuir com projetos! Estou sempre aberto a colaborações e novos desafios.
