@@ -58,9 +58,15 @@ OlÃ¡! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo AndrÃ
     />
     <img 
         alt="JS" 
-        title="JavaScript"
+        title="Javascript"
         height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="TS" 
+        title="Typescript"
+        height="40" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
     />
     <img 
         alt="Node" 
