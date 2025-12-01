@@ -19,12 +19,6 @@
 
 Um repositório pessoal com informações sobre mim, tecnologias que eu uso e alguns badges para acompanhar meu progresso.
 
-## Sumário
-- [Sobre mim](#sobre-mim)
-- [Linguagens e tecnologias](#linguagens-e-tecnologias)
-- [Meus status](#meus-status)
-- [Contato](#contato)
-
 ## Sobre mim
 Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo André. Atualmente curso Ciências da Computação no Instituto Mauá de Tecnologia e estou sempre em busca de aprender novas ferramentas, boas práticas e participar de projetos que me desafiem.
 
