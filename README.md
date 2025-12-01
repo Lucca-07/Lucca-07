@@ -38,7 +38,6 @@ Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr�
 </div>
 
 ## Meus status
-Acompanhe meu streak diário:
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lucca-07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
