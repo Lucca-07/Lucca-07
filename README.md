@@ -29,7 +29,6 @@ Um repositório pessoal com informações sobre mim, tecnologias que eu uso e al
 Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo André. Atualmente curso Ciências da Computação no Instituto Mauá de Tecnologia e estou sempre em busca de aprender novas ferramentas, boas práticas e participar de projetos que me desafiem.
 
 ## Linguagens e tecnologias
-Abaixo estão algumas das linguagens e ferramentas que costumo usar:
 
 <div align="left">
   <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
