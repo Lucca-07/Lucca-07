@@ -25,7 +25,14 @@ Ol√°! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr√
 ## Meus status
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucca-07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=Lucca-07&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucca-07/Lucca-07/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Lucca-07/Lucca-07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  </picture>
 </div>
 
 ## Contato
