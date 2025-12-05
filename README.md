@@ -1,23 +1,9 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucca-rodrigues-391a39364/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:luccamauarodrigues@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucca-07.Lucca-07" alt="visitor-badge"/>
-</div>
-
-# Olá 👋
+# Seja bem vindo 👋
 
 Um repositório pessoal com informações sobre mim, tecnologias que eu uso e alguns badges para acompanhar meu progresso.
+
+![Total de Visitas](https://komarev.com/ghpvc/?username=Lucca-07&label=VISITAS&color=2e2e2e&style=for-the-badge) 
+![Total de Stars](https://img.shields.io/github/stars/Lucca-07?style=for-the-badge&label=STARS&color=ffc933)
 
 ## Sobre mim
 Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo André. Atualmente curso Ciências da Computação no Instituto Mauá de Tecnologia e estou sempre em busca de aprender novas ferramentas, boas práticas e participar de projetos que me desafiem.
@@ -43,5 +29,12 @@ Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo Andr�
 </div>
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/lucca-rodrigues-391a39364/
-- Email: luccamauarodrigues@gmail.com
+<div align="start">
+  <a href="https://www.linkedin.com/in/lucca-rodrigues-391a39364/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:luccamauarodrigues@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
