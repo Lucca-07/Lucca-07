@@ -6,7 +6,7 @@ Um repositório pessoal com informações sobre mim, tecnologias que eu uso e al
 ![Total de Stars](https://img.shields.io/github/stars/Lucca-07?style=for-the-badge&label=STARS&color=ffc933)
 
 ## Sobre mim
-Olá! Sou Lucca, um apaixonado por tecnologia de 18 anos, natural de Santo André. Atualmente curso Ciências da Computação no Instituto Mauá de Tecnologia e estou sempre em busca de aprender novas ferramentas, boas práticas e participar de projetos que me desafiem.
+Olá! Sou Lucca, um apaixonado por tecnologia de 19 anos, natural de Santo André. Atualmente curso Ciências da Computação no Instituto Mauá de Tecnologia e estou sempre em busca de aprender novas ferramentas, boas práticas e participar de projetos que me desafiem.
 
 ## Linguagens e tecnologias
 
